@@ -2,11 +2,13 @@
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/logo.jpg" />
 </p>
-星尘宝库是一个免费、公益的安全资料库，旨在免费为大家提供网络安全领域专业资料，包括：
+星尘宝库是一个免费、公益的网络安全资料库，旨在免费为大家提供平时想要，但是难以找到的网络安全领域专业资料，包括：
+
 - 趋势研究白皮书
 - 大咖技术分享PPT
 - 行业调研报告
 - 行业技术方案 
+
 如果您觉得我们的内容对您有所帮助，请给我们一个小小star，鼓励我们持续的更新，您的鼓励是我们坚持的动力。
 
 目前已提供的资料包括不限于：
@@ -42,9 +44,9 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2024%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A-splunk.pdf">2024网络安全报告-splunk</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E2%80%9C2024%20%E5%B9%B4%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A%E2%80%9D%E7%9A%84%E8%A1%A8%E7%8E%B0-paloalto.pdf">人工智能在“2024 年云原生安全现状报告”的表现-paloalto</a>
 
-以上内容均来自互联网收集，如有维权，请告知删除。
-<br>
-同时也欢迎关注我们的微信公众号：<b>星尘安全</b>
+****
+
+以上内容均来自互联网收集，如有维权，请告知删除。 同时也欢迎关注我们的微信公众号：<b>星尘安全</b>
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/img/gzh.jpg" />
 </p>
