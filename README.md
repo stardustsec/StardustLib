@@ -43,10 +43,12 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2024%E4%BA%91%E5%AE%89%E5%85%A8%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A-%E8%81%94%E7%9B%9F.pdf">2024云安全发展研究报告-联盟</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2024%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A-splunk.pdf">2024网络安全报告-splunk</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E2%80%9C2024%20%E5%B9%B4%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A%E2%80%9D%E7%9A%84%E8%A1%A8%E7%8E%B0-paloalto.pdf">人工智能在“2024 年云原生安全现状报告”的表现-paloalto</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/aigc%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E6%96%B0%E7%89%88.pdf">aigc安全研究报告新版</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2024%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf">2024中国软件供应链安全分析报告</a>
 
 ****
 
-以上内容均来自互联网收集，如有维权，请告知删除。 同时也欢迎关注我们的微信公众号：<b>星尘安全</b>
+以上内容均来自互联网收集，如有侵权，请告知删除。 同时也欢迎关注我们的微信公众号：<b>星尘安全</b>
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/img/gzh.jpg" />
 </p>
