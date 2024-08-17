@@ -4,7 +4,6 @@
 </p>
 各位网络安全从业者们，你们是否曾经在茫茫信息海中寻找那一份珍贵的安全资料?是否在写PPT时找不到好的参考材料？是否在熬夜渗透时渴望一份专业的指引？
 
-
 **好消息！星尘安全知识库(StardustLib)来了！**
 
 这不是一个普通的代码仓库，它是一座为每一位安全从业者精心打造的知识宝库。从最新的安全趋势白皮书，到业界大咖的独家技术分享PPT；从深度行业调研报告，到实用的技术方案， 我们都为你准备好了。
@@ -13,7 +12,7 @@
 
 在这里，你可以畅游于Android安全分析的深海,探索Kubernetes集群的神秘世界,或是与AIGC安全审计框架来个亲密接触。我们不仅提供技术，还有行业趋势、实践分享、研究报告等全方位的内容。
 
-目前有：
+目前已包含：
 
 - 安全发展趋势研究
 - 大咖技术分享PPT
@@ -21,10 +20,10 @@
 - 行业技术方案 
 - 安全标准规范
 
-如果您觉得我们的内容对您有所帮助，请给我们一个小小star，鼓励我们持续的更新，您的鼓励是我们坚持的动力。
+如果您觉得我们的内容对您有所帮助，请给我们一个小小的⭐️ ，鼓励我们持续的更新，您的鼓励是我们坚持的动力。
 
 目前已提供的资料包括不限于：
-## 安全技术类
+## ⭐️ 安全技术类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/Android%E7%BB%84%E4%BB%B6%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E6%88%98.pdf">Android组件与数据存储安全分析及实战</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/Kubernetes%E9%9B%86%E7%BE%A4%E6%B8%97%E9%80%8F%E6%94%BB%E5%87%BB%E8%80%85%E8%A7%86%E8%A7%92%E4%B8%AD%E7%9A%84Kubernetes_CN.pdf">Kubernetes集群渗透攻击者视角中的Kubernetes_CN</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/Serverless%E6%94%BB%E5%87%BB%E6%A1%88%E4%BE%8B%E5%88%86%E4%BA%AB-1.pdf">Serverless攻击案例分享</a>
@@ -33,7 +32,7 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/web%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83%20.docx">web逻辑漏洞挖掘快速入门到放弃</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E8%AE%B2%E4%B9%89.pdf">内网渗透讲义</a>
 
-## 实践分享类
+## ⭐️ 实践分享类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/02_%E5%88%98%E5%BD%A6%E5%8D%97_LLM%E4%B8%8E%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E6%B2%BB%E7%90%86.pdf">刘彦南_LLM与安全风险治理</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/03%20%E5%88%98%E6%AD%86%E8%BD%B6%20AIGC%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1%E6%A1%86%E6%9E%B6%E5%88%9D%E6%8E%A2%20v4_1123_%E8%84%B1%E6%95%8F.pdf">刘歆轶 AIGC安全审计框架初探 v4_1123</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/2%E3%80%90%E4%B8%A5%E9%9B%B7%E3%80%91%E5%BE%AE%E9%9A%94%E7%A6%BB%E5%9C%A8%E9%9B%B6%E4%BF%A1%E4%BB%BB%E6%9E%B6%E6%9E%84%E4%B8%AD%E7%9A%84%E4%BB%B7%E5%80%BC%E4%B8%8E%E6%8C%91%E6%88%98.pdf">微隔离在零信任架构中的价值与挑战</a>
@@ -41,14 +40,14 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/__%E5%BC%A0%E5%AE%B6%E9%93%B6-%E4%BB%8ES-SDLC%E8%A7%86%E8%A7%92%E7%9C%8BAPI%E5%AE%89%E5%85%A8.pdf">张家银-从S-SDLC视角看API安全</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB/%E3%80%8A%E6%94%BB%E9%98%B2%E5%AE%9E%E6%88%98%E7%AD%96%E7%95%A5%E5%89%96%E6%9E%90%E4%B8%8E%E5%AF%B9%E6%8A%97%E5%8D%9A%E5%BC%88%E3%80%8B%E6%BD%98%E7%AB%8B%E4%BA%9A.pdf">《攻防实战策略剖析与对抗博弈》潘立亚</a>
 
-## 行业趋势类
+## ⭐️ 行业趋势类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/2023%E4%B8%AD%E5%9B%BD%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8%E5%B8%82%E5%9C%BA%E6%8A%A5%E5%91%8A.pdf">2023中国云原生安全市场报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/2023%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%96%B0%E5%85%B4%E9%A2%86%E5%9F%9F%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf">2023中国网络安全新兴领域应用研究报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/2023%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf">2023年数据安全行业调研报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/Gartner%202024%E5%B9%B4%E5%8F%8A%E6%9C%AA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%87%8D%E8%A6%81%E8%B6%8B%E5%8A%BF%20.pdf">Gartner 2024年及未来中国网络安全重要趋势</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8F%8A%E5%B1%95%E6%9C%9B.pdf">中国网络安全产业发展及展望</a>
 
-## 研究报告类
+## ⭐️ 研究报告类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2023%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E4%BA%BA%E6%89%8D%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A.pdf">2023 网络安全产业人才发展报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A(2).pdf">2023年中国网络安全运营市场研究报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2023%E5%B9%B4%E5%85%A8%E7%90%83%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%80%81%E5%8A%BF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf">2023年全球勒索软件态势研究报告</a>
