@@ -52,6 +52,16 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/Gartner%202024%E5%B9%B4%E5%8F%8A%E6%9C%AA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%87%8D%E8%A6%81%E8%B6%8B%E5%8A%BF%20.pdf">Gartner 2024年及未来中国网络安全重要趋势</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8F%8A%E5%B1%95%E6%9C%9B.pdf">中国网络安全产业发展及展望</a>
 
+## ⭐️ 标准规范类
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/08%E3%80%8A%E9%9B%B6%E4%BF%A1%E4%BB%BB%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83%E3%80%8B.pdf">《零信任系统技术规范》</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/NIST.SP.800-190%20%E5%AE%B9%E5%99%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.pdf">NIST.SP.800-190 容器安全指南</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E3%80%8A%E8%BD%AF%E4%BB%B6%E5%AE%9A%E4%B9%89%E8%BE%B9%E7%95%8C(SDP)%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%832.0%E3%80%8B.pdf">《软件定义边界(SDP)标准规范2.0》</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E4%BC%81%E4%B8%9A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%90%88%E8%A7%84%E6%A1%86%E6%9E%B6%E4%BD%93%E7%B3%BB%C2%80%C2%8B.pdf">企业网络安全合规框架体系</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86-%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E5%88%86%E7%B1%BB%E5%88%86%E7%BA%A7%E6%8C%87%E5%BC%95.pdf">国家标准-网络数据分类分级指引</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E3%80%8A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%BF%90%E7%BB%B4%E5%AE%9E%E6%96%BD%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%88%E8%8D%89%E6%A1%88%EF%BC%89.docx">国家标准《信息安全技术 网络安全运维实施指南》</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E6%95%B0%E6%8D%AE%E5%88%86%E7%B1%BB%E5%88%86%E7%BA%A7%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf">数据分类分级自动化建设指南</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/%E6%AC%A7%E7%9B%9FGDPR%E3%80%8A%E4%B8%80%E8%88%AC%E6%95%B0%E6%8D%AE%E4%BF%9D%E6%8A%A4%E6%B3%95%E6%A1%88%E3%80%8B%E4%B8%AD%E6%96%87.pdf">欧盟GDPR《一般数据保护法案》</a>
+
 ## ⭐️ 研究报告类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2023%20%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E4%BA%BA%E6%89%8D%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A.pdf">2023 网络安全产业人才发展报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A(2).pdf">2023年中国网络安全运营市场研究报告</a>
