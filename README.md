@@ -72,7 +72,7 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/aigc%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E6%96%B0%E7%89%88.pdf">aigc安全研究报告新版</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/2024%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf">2024中国软件供应链安全分析报告</a>
 
-## Star History
+## ⭐️ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=stardustsec/StardustLib&type=Date)](https://star-history.com/#stardustsec/StardustLib&Date)
 ****
 以上内容均来自互联网收集，如有侵权，请告知删除。 同时也欢迎关注我们的微信公众号：<b>星尘安全</b>
