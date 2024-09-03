@@ -1,4 +1,4 @@
-# StardustLib
+# 星尘安全知识库
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/logo.jpg" />
 </p>
