@@ -79,7 +79,7 @@
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/img/gzh.jpg" width="200" height="200"/>
 </p>
-如果内容有幸给你带来了帮助，不介意的话请作者喝杯咖啡吧，随意就好，<b>打赏码：</b>
+如果内容有幸给你带来了帮助，想请作者喝杯咖啡，<b>打赏码：</b>
 <p align="center">
   <img src="https://github.com/stardustsec/StardustLib/blob/main/img/ds.png" width="200" height="200"/>
 </p>
