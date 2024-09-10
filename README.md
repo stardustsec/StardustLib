@@ -1,6 +1,6 @@
 # 星尘安全知识库
 <p align="center">
-  <img src="https://github.com/stardustsec/StardustLib/blob/main/logo.jpg" />
+  <img src="https://github.com/stardustsec/StardustLib/blob/main/img/logo.jpg" />
 </p>
 各位网络安全从业者们，你们是否曾经在茫茫信息海中寻找那一份珍贵的安全资料?是否在写PPT时找不到好的参考材料？是否在熬夜渗透时渴望一份专业的指引？
 
