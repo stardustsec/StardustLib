@@ -51,6 +51,9 @@
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/2023%E5%B9%B4%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf">2023年数据安全行业调研报告</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/Gartner%202024%E5%B9%B4%E5%8F%8A%E6%9C%AA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E9%87%8D%E8%A6%81%E8%B6%8B%E5%8A%BF%20.pdf">Gartner 2024年及未来中国网络安全重要趋势</a>
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8F%8A%E5%B1%95%E6%9C%9B.pdf">中国网络安全产业发展及展望</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E5%AE%89%E5%85%A8%E8%A1%8C%E4%B8%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%E6%80%81%E5%8A%BF%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A-CAICT.pdf">安全行业大模型技术应用态势发展报告-CAICT</a>
+<li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF/%E8%89%BE%E7%91%9E%E5%92%A8%E8%AF%A2%EF%BC%9A2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%BF%A1%E5%88%9B%E4%BA%A7%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf">艾瑞咨询：2023年中国信创产业研究报告</a>
+
 
 ## ⭐️ 标准规范类
 <li><a href="https://github.com/stardustsec/StardustLib/blob/main/%E6%A0%87%E5%87%86%E8%A7%84%E8%8C%83/08%E3%80%8A%E9%9B%B6%E4%BF%A1%E4%BB%BB%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83%E3%80%8B.pdf">《零信任系统技术规范》</a>
